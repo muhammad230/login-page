@@ -16,8 +16,11 @@ body {
   background: #ffffff;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  
+  &:hover {
+    transform: scale(1.02);
+  }
 }
+
 
 .login-form h2 {
   margin-bottom: 20px;
