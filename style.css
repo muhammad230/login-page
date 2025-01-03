@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 
-.login-container {
+.login-section {
   width: 100%;
   max-width: 400px;
   padding: 20px;
@@ -30,14 +30,14 @@ body {
 }
 
 .input-text{
-  margin-bottom: 15px;
+  margin-bottom: 15.2px;
 }
 
 .input-text label {
   display: block;
   margin-bottom: 5px;
   font-size: 14px;
-  color: #555;
+  color: #0f0e0e;
 }
 
 .input-text input {
@@ -50,7 +50,7 @@ body {
 }
 
 .input-text input:focus {
-  border-color: #007bff;
+  border-color: #0978ee;
   box-shadow: 0 0 4px rgba(0, 123, 255, 0.2);
 }
 
