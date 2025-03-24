@@ -24,7 +24,7 @@ body {
   transform: scale(1.03);
 }
 
-/* Heading */
+/* Heading only */
 .login-form h2 {
   margin-bottom: 20px;
   font-size: 24px;
